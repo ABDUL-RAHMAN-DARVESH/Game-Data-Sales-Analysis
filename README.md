@@ -20,7 +20,7 @@ This project focuses on the following key areas:
 To get started with this project, follow the steps below:
 
 1. ## Visit the Project
-Explore the full analysis and interact with the project on Kaggle: [Game Data Sales Analysis](https://www.kaggle.com/code/abdulrahmandarvesh/game-data-sales-analysis)
+Explore the full analysis and interact with the project on Kaggle: [Game Data Sales Analysis](https://www.kaggle.com/code/abdulrahmandarvesh/nifty-index-analysis-feb-23-feb-24)
 
 2. ## Clone the Repository
 
